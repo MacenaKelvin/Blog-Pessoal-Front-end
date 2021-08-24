@@ -1,0 +1,11 @@
+#img-bg{
+    background-image: url('https://static.quizur.com/i/b/570a141b3adbc4.03703993570a141b2884c9.49936484.png') ;
+
+    min-height: 620px;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
